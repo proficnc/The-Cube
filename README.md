@@ -1,2 +1,20 @@
 # pixhawk2
-Repository for Schematics for the Pixhawk2
+Hardware
+
+Website at: http://pixhawk2.com
+
+Pixhawk 2.1 is an open hardware design, following the OSHW 1.1 definition licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) license.
+
+Pull requests for relevant fixes are very welcome.
+
+Pixhawk v2.1 Hardware
+FMUv3 board CC-BY-SA 3.0
+IMUv3 board is copyright ProfiCNC CC-BY-NC 3.0 
+PSM   board is copyright ProfiCNC CC-BY-NC 3.0
+
+The Pixhawk v2 Hardware is the result of a collaboration of the PX4, Ardupilot community, 3D Robotics and ProfiCNC and has been designed in Altium. Pixhawk 2 FMUv3 is a derivitive of the Pixhawk 1 and PX4 project.
+
+Creative Commons License Disclaimer
+UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+http://creativecommons.org/licenses/by-sa/3.0/
