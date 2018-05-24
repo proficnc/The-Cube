@@ -7,13 +7,22 @@ The Cube BLACK uses some open hardware designs, the FMU board is a derivitive of
 Each component in the cube has a seperate licence. please ensure you respect this licence, or the licence will automatically be revoked.
 
 Pull requests for relevant fixes are very welcome.
-The cube licences...b
+The cube licences...board files are NOT open.
 FMUv3 board CC-BY-SA 3.0 (Schematic ONLY, PCB is Copyright Philip Rowse, and must not be copied as is)
 IMUv3 board is copyright ProfiCNC CC-BY-NC 3.0 (NO COMMERCIAL USE WITHOUT CONSULTING Mr Philip Rowse)
 PSM   board is copyright ProfiCNC CC-BY-NC 3.0 (No Commercial use without consulting mr Philip Rowse)
 
 The Cube shape, the 30mm pitch with 80 pin connector are patented.  These are NOT to be coppied without permission from ProfiCNC.
-Permission is granted to use this pattern for anyone building a carrier board to suite either the ProfiCNC / Hex Cube, or the 3DR Pixhawk 2.  No use for any other purpose is licenced. Companies that are making such carrier boards, and are licenced to do so, include Spektreworks, 3DRobotics (Solo), enRoute.
+Permission is granted to use this pattern for anyone building a carrier board to suite either the ProfiCNC / Hex Cube, or the 3DR Pixhawk 2.  No use for any other purpose is licenced. 
+
+Carrier board PCB Files shown for use as a template
+Footprint for the Cube is Patented, please contact ProfiCNC if you wish to use this footprint for your design, the use of this footprint for customized carrier boards will be granted free of charge, but we appreciate the official request, and you will be given a licence number for this.
+
+Please Add 
+your company name
+ a link to where your design can be found (not mandatory)a description as to what your board is for, and take the next available serial number. here on github, and we will respond there.
+
+https://github.com/proficnc/The-Cube/blob/master/CB_REV_C_Altium/Carrier%20board%20footprint%20approval
 
 The Cube Black Hardware is the result of a collaboration of the PX4, Ardupilot community, 3D Robotics, ProfiCNC and Hex Technologies and has been designed in Altium. Pixhawk 2 FMUv3 is a derivitive of the Pixhawk 1, APM, PX4 project. The IMU is an original ProfiCNC work
 
