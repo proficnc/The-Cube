@@ -7,7 +7,7 @@ the use of the screw positions and 80 pin female connector on the CUBE is NOT co
 ADDING YOUR NAME HERE AND SUBMITTING THE PULL REQUEST IS THE ONLY THING YOU MUST DO.  By ProfiCNC accepting this into the repository, your licence is granted.
 Please add a new line after the previous....
 
-Serial Number |Company Name       |Name of person registering   |Link to company    |Description of use     |Git name of person filling this in   
+Serial Number |Company Name       |Name of person registering   |Link to company    |Description of use               |Git name of person filling this in   
 
 CB0000001     |3DRobotics         |Philip                       |3DRobotics.com     |Solo main board                  |ProfiCNC 
 CB0000002     |3DRobotics         |Philip                       |3DRobotics.com     |Iris++ main board                |ProfiCNC
@@ -28,3 +28,7 @@ CB0000016     |Oak Ridge National Lab  |Brad                    |ornl.gov       
 CB0000017     |Germandrones       |Klaus Scho                   |germandrones.com   |Songbird main Board              |germandrones
 CB0000018     |AetherMachines Inc.|Dr. Mike Moore               |aethermachines.com |Customer carrier                 |DrMikeMoore
 CB0000019     |allocortech, Inc   |Will Brown                   |allocortech.com    |Custom Carrier                   |wbrown9000
+CB0000020     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |VTOL Carrier Board (LHE Edition) |SpektreWorks
+CB0000021     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Cobalt Avionics Stack            |SpektreWorks
+CB0000022     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Indigo Avionics Stack            |SpektreWorks
+CB0000023     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Spektre Carrier Board            |SpektreWorks
