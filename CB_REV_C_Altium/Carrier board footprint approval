@@ -1,10 +1,10 @@
-Licence for use of the Patented Cube footprint. 
-before using the Cube Footprint in your personal or commercial PCB design, you must ask for a licence to use this.
+License for use of the Patented Cube footprint. 
+before using the Cube Footprint in your personal or commercial PCB design, you must ask for a license to use this.
 the footprint includes the 80 pin connector Male connector, and the 4x screw positions or simple variations of this.
 the use of the screw positions and 80 pin female connector on the CUBE is NOT covered by this license. you MUST contact ProfiCNC directly for use on the Cube side.
 
 
-ADDING YOUR NAME HERE AND SUBMITTING THE PULL REQUEST IS THE ONLY THING YOU MUST DO.  By ProfiCNC accepting this into the repository, your licence is granted.
+ADDING YOUR NAME HERE AND SUBMITTING THE PULL REQUEST IS THE ONLY THING YOU MUST DO.  By ProfiCNC accepting this into the repository, your license is granted.
 Please add a new line after the previous....
 
 Serial Number |Company Name       |Name of person registering   |Link to company    |Description of use               |Git name of person filling this in   
@@ -50,3 +50,4 @@ CB0000038     |Wurzbach Electronics, Inc. |Jeff Wurzbach        |wurzbachelectro
 CB0000039     |Aero Login Sp. z o.o.      |Maciej Żarnowski     |aerologin.pl            |Custom carrier board        |zarnowskiaerologin
 CB0000040     |CSIR, South Africa |John Monk                    |csir.co.za         |Custom carrier board             |JoMoCSIR
 CB0000041     |VideoDrone Finland Oy |Juha Tolvanen             |videodrone.fi      |Custom carrier board             |VDLJu
+CB0000042	  |Sandia National Laboratories						|https://www.sandia.gov/ |Custom Carrier Board		  |NicolasMontoyaS
