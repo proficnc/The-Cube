@@ -12,7 +12,7 @@ FMUv3 board CC-BY-SA 3.0 (Schematic ONLY, PCB is Copyright Philip Rowse, and mus
 IMUv3 board is copyright ProfiCNC CC-BY-NC 3.0 (NO COMMERCIAL USE WITHOUT CONSULTING Mr Philip Rowse)
 PSM   board is copyright ProfiCNC CC-BY-NC 3.0 (No Commercial use without consulting mr Philip Rowse)
 
-The Cube shape, the 30mm pitch with 80 pin connector are patented.  These are NOT to be coppied without permission from ProfiCNC.
+The Cube concept, an autopilot on module, and a carrier board are patented (US Patent No. 10,613,526).  These are NOT to be coppied without permission from ProfiCNC.
 Permission is granted to use this pattern for anyone building a carrier board to suite either the ProfiCNC / Hex Cube, or the 3DR Pixhawk 2.  No use for any other purpose is licenced. 
 
 Carrier board PCB Files shown for use as a template
