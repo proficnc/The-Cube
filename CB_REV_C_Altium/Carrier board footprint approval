@@ -16,7 +16,7 @@ CB0000004     |Hex                |Philip                       |ProfiCNC.com   
 CB0000005     |Hex                |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
 CB0000006     |Hex                |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
 CB0000007     |VAMATIS            |Nicolas Chaslot              |Vamatis.com        |Mega Solo Carrier board          |ncx94
-CB0000008     |Airbot Systems     |Philip                       |Airbot-systems.com |PDB Carrier Board                |ProfiCNC
+CB0000008     |Airbot Systems     |Philip                       |Airbot-systems.com |Mini Carrier Board               |ProfiCNC
 CB0000009     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Multi-Rotor Carrier Board        |SpektreWorks
 CB0000010     |AguaDrone          |Jeff Wurzbach                |aguadrone.com      |AguaDrone Mainboard              |apache405
 CB0000011     |HiTec              |Jeff Wurzbach                |http://hitecnology.com/drones|Xeno Mainboard         |apache405
@@ -114,4 +114,5 @@ CB0000102     |Simtech Racing     |Jed Freeaman                 |www.simtechraci
 CB0000103     |Pegasus Aero       |Carl Engelmann               |www.pegasusaero.ca |Custom Carrier Board             |CarlEngel
 CB0000104     |Manna Drones       |Kilian Dolan                 |manna.aero         |Custom Carrier Board             |arahowerya
 CB0000105     |Perseids LLC       |Garrett Robinson             |perseids.dev       |Commercial PCB design            |perseidsllc
-CB0000106     |iCreativeSystems   |Nanthawat Saetun             |icsco.ai           |Custom Carrier Board             |aerojnn
+CB0000106     |AIRBOT SYSTEMS     |Julien Queffelec             |Airbot-systems.com |ATOM Drone Motherboard           |K3FF
+CB0000107     |iCreativeSystems   |Nanthawat Saetun             |icsco.ai           |Custom Carrier Board             |aerojnn
