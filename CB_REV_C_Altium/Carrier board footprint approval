@@ -7,120 +7,130 @@ the use of the screw positions and 80 pin female connector on the CUBE is NOT co
 ADDING YOUR NAME HERE AND SUBMITTING THE PULL REQUEST IS THE ONLY THING YOU MUST DO.  By ProfiCNC accepting this into the repository, your license is granted.
 Please add a new line after the previous....
 
-Serial Number |Company Name       |Name of person registering   |Link to company    |Description of use               |Git name of person filling this in   
+License for use of the Patented Cube footprint. 
+before using the Cube Footprint in your personal or commercial PCB design, you must ask for a license to use this.
+the footprint includes the 80 pin connector Male connector, and the 4x screw positions or simple variations of this.
+the use of the screw positions and 80 pin female connector on the CUBE is NOT covered by this license. you MUST contact ProfiCNC directly for use on the Cube side.
 
-CB0000001     |3DRobotics         |Philip                       |3DRobotics.com     |Solo main board                  |ProfiCNC 
-CB0000002     |3DRobotics         |Philip                       |3DRobotics.com     |Iris++ main board                |ProfiCNC
-CB0000003     |Hex                |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
-CB0000004     |Hex                |Philip                       |ProfiCNC.com       |Mini carrier board               |ProfiCNC
-CB0000005     |Hex                |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
-CB0000006     |Hex                |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
-CB0000007     |VAMATIS            |Nicolas Chaslot              |Vamatis.com        |Mega Solo Carrier board          |ncx94
-CB0000008     |Airbot Systems     |Philip                       |Airbot-systems.com |Mini Carrier Board               |ProfiCNC
-CB0000009     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Multi-Rotor Carrier Board        |SpektreWorks
-CB0000010     |AguaDrone          |Jeff Wurzbach                |aguadrone.com      |AguaDrone Mainboard              |apache405
-CB0000011     |HiTec              |Jeff Wurzbach                |http://hitecnology.com/drones|Xeno Mainboard         |apache405
-CB0000012     |Planck Aerosystems |Allan Matthew                |http://planckaero.com |Planck Carrier Board          |almatthew
-CB0000013     |AzurDrones         |Antoine LECESTRE             |azurdrones.com     | HPax main board                 |azurdrones
-CB0000014     |Hexadrone          |Romain Boutrois              |Hexadrone.fr       | Tundra main board               |rboutrois
-CB0000015     |Verge Inc          |Anthony Merlino              |vergeaero.com      |Quad-rotor Carrier Board         |antmerlino
-CB0000016     |Oak Ridge National Lab  |Brad                    |ornl.gov           |Carrier Board                    |climr
-CB0000017     |Germandrones       |Klaus Scho                   |germandrones.com   |Songbird main Board              |germandrones
-CB0000018     |AetherMachines Inc.|Dr. Mike Moore               |aethermachines.com |Customer carrier                 |DrMikeMoore
-CB0000019     |allocortech, Inc   |Will Brown                   |allocortech.com    |Custom Carrier                   |wbrown9000
-CB0000020     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |VTOL Carrier Board (LHE Edition) |SpektreWorks
-CB0000021     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Cobalt Avionics Stack            |SpektreWorks
-CB0000022     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Indigo Avionics Stack            |SpektreWorks
-CB0000023     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Spektre Carrier Board            |SpektreWorks
-CB0000024     |Real-time Robotics |Quoc Luong                   |rtrobotics.com     |RtR Carrier Board                |RtRobotics
-CB0000025     |IkingTec           |Tang Bo                      |ikingtec.com       |Carrier Board                    |IkingTec
-CB0000026     |NXT Robotics       |Jeff Wurzbach                |nxtrobotics.com    |Rover Carrier Board              |apache405
-CB0000027     |ADR                |Daniel Esparon               |australiandroid.com.au |UAV Board                    | adrdmesparon
-CB0000028     |private            |Jarrit Christofides          |---                |custom carrier board             |phinst
-CB0000029     |AIRBOT SYSTEMS     |Julien Queffelec             |Airbot-systems.com |Mini carrier board               |k3ff
-CB0000030     |OLLIWprivateINC    |OlliW                        |www.olliw.eu       |carrier board                    |olliw42
-CB0000031     |personal use       |Eugene Zhou                  |---                |custom mini carrier board        |EugeneZhou1018
-CB0000032     |KTS/Aeromorphology||Duane Hill                   |aeromorphology.com |custom carrier board             |aeromorphology
-CB0000033     |Airobot            |Kristof Beenders             |airobot.eu         |custom carrier board             |airobotUAV
-CB0000034     |Airborne Drones    |Matthew Burger               |airbornedrones.co  |Custom carrier board             |AirborneDrones
-CB0000035     |Colibrex GmbH      |Cedric Gonzalez              |colibrex.com       |Custom carrier board             |colibrex
-CB0000036     |Wurzbach Electronics, Inc. |Jeff Wurzbach        |wurzbachelectronics.com |M2/M2A Carrier board        |apache405
-CB0000037     |Wurzbach Electronics, Inc. |Jeff Wurzbach        |wurzbachelectronics.com |Custom carrier              |apache405
-CB0000038     |Wurzbach Electronics, Inc. |Jeff Wurzbach        |wurzbachelectronics.com |EAGLE Reference Drawings    |apache405
-CB0000039     |Aero Login Sp. z o.o.      |Maciej Żarnowski     |aerologin.pl            |Custom carrier board        |zarnowskiaerologin
-CB0000040     |CSIR, South Africa |John Monk                    |csir.co.za         |Custom carrier board             |JoMoCSIR
-CB0000041     |VideoDrone Finland Oy |Juha Tolvanen             |videodrone.fi      |Custom carrier board             |VDLJu
-CB0000042     |Sandia National Laboratories                     |https://www.sandia.gov/ |Custom Carrier Board        |NicolasMontoyaS
-CB0000043     |Dragonfly Pictures, Inc.   |John Kraybill        |DPIUAV.com         |Custom carrier board             |JohnDPI
-CB0000044     |MAUCH-Technology   |Christian Mauch              |mauch-electronic.com   |Custom carrier board         |ChristianMauch
-CB0000045     |Fenix Group Solutions |Kelsi Loudenslager        |https://fenixgroupsolutions.com |Custom carrier board|kloudenslager
-CB0000046     |AION ROBOTICS      |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - Generic   |NickNunno
-CB0000047     |AION ROBOTICS      |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - UGV       |NickNunno
-CB0000048     |AION ROBOTICS      |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - Copter    |NickNunno
-CB0000049     |AION ROBOTICS      |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - Plane     |NickNunno
-CB0000050      |Neurosoft      |Maciej Majka               |https://www.neurosoft.pl   |Custom Carrier Board     |macckos
-CB0000051     |Personal Use       |Piotr Lazarek                |---                |Custom Carrier Board              |LazarekPiotr
-CB0000052     |Aeronavics Ltd     |Josh Mulder                  |Aeronavics.com     |Navi carrier board               |JoshMulder
-CB0000053     |Skyfish            |Bart Claessens               |skyfish.ai         |Custom carrier board             |bart-skyfish
-CB0000054     |FlyTech UAV        |Adrian Barnaś                |flytechuav.pl      |Custom carrier board             |abarnas-flytech
-CB0000055     |DRONOLOGY SDN BHD  |David Amuthesan              |dronology.my       |Custom C.Board - Agrisprayer     |David-Dronology
-CB0000056     |Easy Aerial        |Chamathke Perera             |easyaerial.com     |Custom Carrier Board - RDARS     |ChamathkePerera
-CB0000057     |private            |Aimran Akhtar                |---                |Custom Carrier Board             |ameyat2812
-CB0000058     |Artemis Systems    |Devin Freitas                |---                |Custom Carrier board             |dfreitas14
-CB0000059     |Private            |Thiwanka Jayasiri            |---                |Custom carrier board             |thiwankajayasiri
-CB0000060     |ArclightDS         |Jason Judson                 |---                |Custom Carrier Board             |arclightds
-CB0000061     |VAMUdeS            |Guillaume Giroux             |vamudes.ca         |Custom Carrier Board             |GuillaumeGiroux29
-CB0000062     |Private            |Chris Dycus                  |---                |Custom Carrier Board             |dycus
-CB0000063     |Robotic Space Technology |Azizi Malek            |roboticspace.co    |Hybrid Airship Carrier Board     |azizimalek
-CB0000064     |Hoverfly Technologies, Inc.  | Daniel Burroughs  |hoverflytech.com   |Custom Carrier Board             |daniel-burroughs
-CB0000065     |CDSpace Robotics   |Nikhil Upadhye               |cdspace.in         |Custom Carrier Board             |nikhil9
-CB0000066     |FlyWorks           |Gad Peleg                    |fly-works.com      |Custom carrier board             |FWKSdrone
-CB0000067     |DLR                |Andreas Bierig               |www.dlr.de         |Custom carrier board             |AndreasBierig
-CB0000068     |Meteomatics AG     |Livio Roth                   |meteomatics.com    |Custom carrier board             |mm-lr
-CB0000069     |Silent Falcon UAS  |Wil Neeley                   |silentfalconuas.com |Custom carrier board            |WilAtSilentFalcon
-CB0000070     |Event38 Unmanned Systems  |Mathew Wright         |Event38.com        |E38 Carrier Board                |MwrightE38
-CB0000071     |EAMS LAB           |Glenn                        |elab.co.jp         |Custom carrier board             |entoy
-CB0000072     |EAMS LAB           |Glenn                        |elab.co.jp         |Schematics reference             |entoy   
-CB0000073     |Leo Technologies   |Curtis Leo                   |leo-tech.com       |Custom Carrier Board             |curtisleo
-CB0000074     |Flight Labs UNSW   |Aly Virani                   |flightlabs.com.au  |Custom Carrier Board             |AlyVirani
-CB0000075     |Watts Innovations  |Bobby Watts                  |wattsinnovations.com |Custom Carrier Board           |WattsInnovations
-CB0000076     |GJM                |Junichi Goto                 |gjm.co.jp          |Custom Carrier Board             |dknbFPV
-CB0000077     |UAV Works          |David Ortiz                  |uav-works.com      |Custom Carrier Board             |VTOLDavid
-CB0000078     |Patton Electronics/Drone Factory USA |Riley Dove |patton.com         |Custom Carrier board             |rdoveraven
-CB0000079     |USW bv             |Hannes Verschore             |uwsoftware.be      |Mini Carrier Board               |h4writer
-CB0000080     |Private            |Nuttawat Punpigul            |---                |Custom Carrier Board             |yangyzulu
-CB0000081     |Helix-North        |Angel Albeniz                |helixnorth.com     |Custom Carrier Board             |AngelAlbeniz
-CB0000082     |SparrowFour        |Andres Garrido               |sparrowfour.com    |Custom Carrier Board             |daltaxuar
-CB0000083     |Avionics Anonymous |Richard                      |---                |Custom Carrier Board             |avionicsanonymous
-CB0000084     |IIT-Delhi          |Utkarsh Bajpai               |https://iitd.ac.in |Custom Carrier Board             |bazpi
-CB0000085     |UC Berkeley        | Nicholas Weaver		|berkeley.edu	    |Custom Carrier Board (CM4 target)|nweaver
-CB0000086     |ACP Aviation       |Anthony Kirk                 |acpaviation.co.uk  |custom Carrier Board             |ACPAviation
-CB0000087     |SRS                |Chase Riley                  |srsgrp.com         |Custom Carrier Board             |SRSgrp
-CB0000088     |Johnnette Techn.   |Achal Singhal                |johnnette.com      |Custom Carrier Board             |achalsinghal16
-CB0000089     |Sun Stratos        |Mihai Dutescu                |---                |Custom Carrier Board             |MDutescu
-CB0000090     |ACP Aviation       |Anthony Kirk                 |acpaviation.co.uk  |custom Carrier Board             |ACPAviation
-CB0000091     |Aerialtronics      |Jeroen Taverne               |aerialtronics.com  |custom Carrier Board             |jeroentaverne
-CB0000092     |Fotoacc Grzegorz Łobodziński | Łukasz Wielgosz   |fotoacc.pl         |custom Carrier Board             |lukaszwielgosz
-CB0000093     |TeamBathDrones     |Freddie Sherratt             |teambathdrones.com |Custom carrier board             |fsherratt
-CB0000094     |UMILES             |Jorge Frutos                 |umilesgroup.com/   |Custom carrier board             |JorFru
-CB0000095     |Aigen Labs         |Adarsh Kodhanda              |aigenlabs.com      |Custom carrier board             |AlphaDeltaIndia
-CB0000096     |Maritime Robotics  |Torbjørn Houge               |maritimerobotics.com |Fixed Wing Carrier Board       |torbjornhouge
-CB0000097     |uAvionix           |Jeff Walker                  |https://uavionix.com | Custom Carrier Board          |jwuavionix 
-CB0000098     |NCSU - AERPAW      |Mark Funderburk              |aerpaw.org         |custom Carrier Board             |mtfunder
-CB0000099     |Station 0 LLC      |Jerry Fuller                 |station0.us        |custom Carrier Board             |Station0LLC
-CB0000100     |3DXR               |Ben Wilkinson                |3dxr.co.uk         |Distributed VTOL Board           |3dxr
-CB0000101     |Indrones           |Pravin Prajapati             |www.indrones.com   |Sigma Carrier Board              |pravinp404
-CB0000102     |Simtech Racing     |Jed Freeaman                 |www.simtechracing.co.uk   |Integrated VTOL Board     |SimtechR
-CB0000103     |Pegasus Aero       |Carl Engelmann               |www.pegasusaero.ca |Custom Carrier Board             |CarlEngel
-CB0000104     |Manna Drones       |Kilian Dolan                 |manna.aero         |Custom Carrier Board             |arahowerya
-CB0000105     |Perseids LLC       |Garrett Robinson             |perseids.dev       |Commercial PCB design            |perseidsllc
-CB0000106     |AIRBOT SYSTEMS     |Julien Queffelec             |Airbot-systems.com |ATOM Drone Motherboard           |K3FF
-CB0000107     |iCreativeSystems   |Nanthawat Saetun             |icsco.ai           |Custom Carrier Board             |aerojnn
-CB0000108     |Autonomous Technology  |Nigel Brown              |www.autonomoustechnology.com.au  |Custom Carrier Board |NigelBrown5
-CB0000109     |Flyfocus           |Julian Zyromski              |www.flyfocus.pl    |Custom Carrier Board             |zyromskij
-CB0000110     |Airvolute          |Lukas Palkovic               |www.airvolute.com  |DronCore.Suite - full autonomous solution with Jetson |lupal1
-CB0000111     |SkySpecs           |Sam DeBruin                  |www.skyspecs.com   |Custom Carrier Board             |sdebruinss 
-CB0000112     |Camflite           |Paul Gentile                 |www.camflite.com   |Custome Carrier Board            |gsrobotics
-CB0000113     |Fortem Technologies|Patrick Fitzgerald           |fortemtech.com     |Custom carrier board             |pfitzger8828
-CB0000114     |Spectre Solutions  |Karol Niewiadomski           |spectre.solutions  |Custom carrier board             |spectre-solutions
-CB0000115     |Drone Aviation Corp|Zac Messcher               |droneaviationcorp.com|Custom carrier board             |zmesscher
+
+ADDING YOUR NAME HERE AND SUBMITTING THE PULL REQUEST IS THE ONLY THING YOU MUST DO.  By ProfiCNC accepting this into the repository, your license is granted.
+Please add a new line after the previous....
+
+Serial Number |Company Name               |Name of person registering   |Link to company    |Description of use               |Git name of person filling this in   
+
+CB0000001     |3DRobotics                 |Philip                       |3DRobotics.com     |Solo main board                  |ProfiCNC 
+CB0000002     |3DRobotics                 |Philip                       |3DRobotics.com     |Iris++ main board                |ProfiCNC
+CB0000003     |Hex                        |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
+CB0000004     |Hex                        |Philip                       |ProfiCNC.com       |Mini carrier board               |ProfiCNC
+CB0000005     |Hex                        |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
+CB0000006     |Hex                        |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
+CB0000007     |VAMATIS                    |Nicolas Chaslot              |Vamatis.com        |Mega Solo Carrier board          |ncx94
+CB0000008     |Airbot Systems             |Philip                       |Airbot-systems.com |Mini Carrier Board               |ProfiCNC
+CB0000009     |SpektreWorks               |Daniel Laks                  |spektreworks.com   |Multi-Rotor Carrier Board        |SpektreWorks
+CB0000010     |AguaDrone                  |Jeff Wurzbach                |aguadrone.com      |AguaDrone Mainboard              |apache405
+CB0000011     |HiTec                      |Jeff Wurzbach                |http://hitecnology.com/drones|Xeno Mainboard         |apache405
+CB0000012     |Planck Aerosystems         |Allan Matthew                |http://planckaero.com |Planck Carrier Board          |almatthew
+CB0000013     |AzurDrones                 |Antoine LECESTRE             |azurdrones.com     | HPax main board                 |azurdrones
+CB0000014     |Hexadrone                  |Romain Boutrois              |Hexadrone.fr       | Tundra main board               |rboutrois
+CB0000015     |Verge Inc                  |Anthony Merlino              |vergeaero.com      |Quad-rotor Carrier Board         |antmerlino
+CB0000016     |Oak Ridge National Lab     |Brad                         |ornl.gov           |Carrier Board                    |climr
+CB0000017     |Germandrones               |Klaus Scho                   |germandrones.com   |Songbird main Board              |germandrones
+CB0000018     |AetherMachines Inc.        |Dr. Mike Moore               |aethermachines.com |Customer carrier                 |DrMikeMoore
+CB0000019     |allocortech, Inc           |Will Brown                   |allocortech.com    |Custom Carrier                   |wbrown9000
+CB0000020     |SpektreWorks               |Daniel Laks                  |spektreworks.com   |VTOL Carrier Board (LHE Edition) |SpektreWorks
+CB0000021     |SpektreWorks               |Daniel Laks                  |spektreworks.com   |Cobalt Avionics Stack            |SpektreWorks
+CB0000022     |SpektreWorks               |Daniel Laks                  |spektreworks.com   |Indigo Avionics Stack            |SpektreWorks
+CB0000023     |SpektreWorks               |Daniel Laks                  |spektreworks.com   |Spektre Carrier Board            |SpektreWorks
+CB0000024     |Real-time Robotics         |Quoc Luong                   |rtrobotics.com     |RtR Carrier Board                |RtRobotics
+CB0000025     |IkingTec                   |Tang Bo                      |ikingtec.com       |Carrier Board                    |IkingTec
+CB0000026     |NXT Robotics               |Jeff Wurzbach                |nxtrobotics.com    |Rover Carrier Board              |apache405
+CB0000027     |ADR                        |Daniel Esparon               |australiandroid.com.au |UAV Board                    | adrdmesparon
+CB0000028     |private                    |Jarrit Christofides          |---                |custom carrier board             |phinst
+CB0000029     |AIRBOT SYSTEMS             |Julien Queffelec             |Airbot-systems.com |Mini carrier board               |k3ff
+CB0000030     |OLLIWprivateINC            |OlliW                        |www.olliw.eu       |carrier board                    |olliw42
+CB0000031     |personal use               |Eugene Zhou                  |---                |custom mini carrier board        |EugeneZhou1018
+CB0000032     |KTS/Aeromorphology         |Duane Hill                   |aeromorphology.com |custom carrier board             |aeromorphology
+CB0000033     |Airobot                    |Kristof Beenders             |airobot.eu         |custom carrier board             |airobotUAV
+CB0000034     |Airborne Drones            |Matthew Burger               |airbornedrones.co  |Custom carrier board             |AirborneDrones
+CB0000035     |Colibrex GmbH              |Cedric Gonzalez              |colibrex.com       |Custom carrier board             |colibrex
+CB0000036     |Wurzbach Electronics, Inc. |Jeff Wurzbach                |wurzbachelectronics.com |M2/M2A Carrier board        |apache405
+CB0000037     |Wurzbach Electronics, Inc. |Jeff Wurzbach                |wurzbachelectronics.com |Custom carrier              |apache405
+CB0000038     |Wurzbach Electronics, Inc. |Jeff Wurzbach                |wurzbachelectronics.com |EAGLE Reference Drawings    |apache405
+CB0000039     |Aero Login Sp. z o.o.      |Maciej Żarnowski             |aerologin.pl            |Custom carrier board        |zarnowskiaerologin
+CB0000040     |CSIR, South Africa         |John Monk                    |csir.co.za         |Custom carrier board             |JoMoCSIR
+CB0000041     |VideoDrone Finland Oy      |Juha Tolvanen                |videodrone.fi      |Custom carrier board             |VDLJu
+CB0000042     |Sandia NationalLaboratories|https://www.sandia.gov/      |Custom Carrier Board        |NicolasMontoyaS
+CB0000043     |Dragonfly Pictures, Inc.   |John Kraybill                |DPIUAV.com         |Custom carrier board             |JohnDPI
+CB0000044     |MAUCH-Technology           |Christian Mauch              |mauch-electronic.com   |Custom carrier board         |ChristianMauch
+CB0000045     |Fenix Group Solutions      |Kelsi Loudenslager           |https://fenixgroupsolutions.com |Custom carrier board|kloudenslager
+CB0000046     |AION ROBOTICS              |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - Generic   |NickNunno
+CB0000047     |AION ROBOTICS              |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - UGV       |NickNunno
+CB0000048     |AION ROBOTICS              |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - Copter    |NickNunno
+CB0000049     |AION ROBOTICS              |Nicholas Nunno               |https://www.aionrobotics.com   |Custom carrier board - Plane     |NickNunno
+CB0000050     |Neurosoft                  |Maciej Majka                 |https://www.neurosoft.pl   |Custom Carrier Board     |macckos
+CB0000051     |Personal Use               |Piotr Lazarek                |---                |Custom Carrier Board             |LazarekPiotr
+CB0000052     |Aeronavics Ltd             |Josh Mulder                  |Aeronavics.com     |Navi carrier board               |JoshMulder
+CB0000053     |Skyfish                    |Bart Claessens               |skyfish.ai         |Custom carrier board             |bart-skyfish
+CB0000054     |FlyTech UAV                |Adrian Barnaś                |flytechuav.pl      |Custom carrier board             |abarnas-flytech
+CB0000055     |DRONOLOGY SDN BHD          |David Amuthesan              |dronology.my       |Custom C.Board - Agrisprayer     |David-Dronology
+CB0000056     |Easy Aerial                |Chamathke Perera             |easyaerial.com     |Custom Carrier Board - RDARS     |ChamathkePerera
+CB0000057     |private                    |Aimran Akhtar                |---                |Custom Carrier Board             |ameyat2812
+CB0000058     |Artemis Systems            |Devin Freitas                |---                |Custom Carrier board             |dfreitas14
+CB0000059     |Private                    |Thiwanka Jayasiri            |---                |Custom carrier board             |thiwankajayasiri
+CB0000060     |ArclightDS                 |Jason Judson                 |---                |Custom Carrier Board             |arclightds
+CB0000061     |VAMUdeS                    |Guillaume Giroux             |vamudes.ca         |Custom Carrier Board             |GuillaumeGiroux29
+CB0000062     |Private                    |Chris Dycus                  |---                |Custom Carrier Board             |dycus
+CB0000063     |Robotic Space Technology   |Azizi Malek                  |roboticspace.co    |Hybrid Airship Carrier Board     |azizimalek
+CB0000064     |Hoverfly Technologies, Inc.|Daniel Burroughs             |hoverflytech.com   |Custom Carrier Board             |daniel-burroughs
+CB0000065     |CDSpace Robotics           |Nikhil Upadhye               |cdspace.in         |Custom Carrier Board             |nikhil9
+CB0000066     |FlyWorks                   |Gad Peleg                    |fly-works.com      |Custom carrier board             |FWKSdrone
+CB0000067     |DLR                        |Andreas Bierig               |www.dlr.de         |Custom carrier board             |AndreasBierig
+CB0000068     |Meteomatics AG             |Livio Roth                   |meteomatics.com    |Custom carrier board             |mm-lr
+CB0000069     |Silent Falcon UAS          |Wil Neeley                   |silentfalconuas.com|Custom carrier board             |WilAtSilentFalcon
+CB0000070     |Event38 Unmanned Systems   |Mathew Wright                |Event38.com        |E38 Carrier Board                |MwrightE38
+CB0000071     |EAMS LAB                   |Glenn                        |elab.co.jp         |Custom carrier board             |entoy
+CB0000072     |EAMS LAB                   |Glenn                        |elab.co.jp         |Schematics reference             |entoy   
+CB0000073     |Leo Technologies           |Curtis Leo                   |leo-tech.com       |Custom Carrier Board             |curtisleo
+CB0000074     |Flight Labs UNSW           |Aly Virani                   |flightlabs.com.au  |Custom Carrier Board             |AlyVirani
+CB0000075     |Watts Innovations          |Bobby Watts                  |wattsinnovations.com|Custom Carrier Board            |WattsInnovations
+CB0000076     |GJM                        |Junichi Goto                 |gjm.co.jp          |Custom Carrier Board             |dknbFPV
+CB0000077     |UAV Works                  |David Ortiz                  |uav-works.com      |Custom Carrier Board             |VTOLDavid
+CB0000078     |Patton Electronics         |Riley Dove                   |patton.com         |Custom Carrier board             |rdoveraven
+CB0000079     |USW bv                     |Hannes Verschore             |uwsoftware.be      |Mini Carrier Board               |h4writer
+CB0000080     |Private                    |Nuttawat Punpigul            |---                |Custom Carrier Board             |yangyzulu
+CB0000081     |Helix-North                |Angel Albeniz                |helixnorth.com     |Custom Carrier Board             |AngelAlbeniz
+CB0000082     |SparrowFour                |Andres Garrido               |sparrowfour.com    |Custom Carrier Board             |daltaxuar
+CB0000083     |Avionics Anonymous         |Richard                      |---                |Custom Carrier Board             |avionicsanonymous
+CB0000084     |IIT-Delhi                  |Utkarsh Bajpai               |https://iitd.ac.in |Custom Carrier Board             |bazpi
+CB0000085     |UC Berkeley                |Nicholas Weaver		          |berkeley.edu	      |Custom Carrier Board (CM4 target)|nweaver
+CB0000086     |ACP Aviation               |Anthony Kirk                 |acpaviation.co.uk  |custom Carrier Board             |ACPAviation
+CB0000087     |SRS                        |Chase Riley                  |srsgrp.com         |Custom Carrier Board             |SRSgrp
+CB0000088     |Johnnette Techn.           |Achal Singhal                |johnnette.com      |Custom Carrier Board             |achalsinghal16
+CB0000089     |Sun Stratos                |Mihai Dutescu                |---                |Custom Carrier Board             |MDutescu
+CB0000090     |ACP Aviation               |Anthony Kirk                 |acpaviation.co.uk  |custom Carrier Board             |ACPAviation
+CB0000091     |Aerialtronics              |Jeroen Taverne               |aerialtronics.com  |custom Carrier Board             |jeroentaverne
+CB0000092     |FotoaccGrzegorz Łobodziński|Łukasz Wielgosz              |fotoacc.pl         |custom Carrier Board             |lukaszwielgosz
+CB0000093     |TeamBathDrones             |Freddie Sherratt             |teambathdrones.com |Custom carrier board             |fsherratt
+CB0000094     |UMILES                     |Jorge Frutos                 |umilesgroup.com/   |Custom carrier board             |JorFru
+CB0000095     |Aigen Labs                 |Adarsh Kodhanda              |aigenlabs.com      |Custom carrier board             |AlphaDeltaIndia
+CB0000096     |Maritime Robotics          |Torbjørn Houge               |maritimerobotics.com |Fixed Wing Carrier Board       |torbjornhouge
+CB0000097     |uAvionix                   |Jeff Walker                  |https://uavionix.com | Custom Carrier Board          |jwuavionix 
+CB0000098     |NCSU - AERPAW              |Mark Funderburk              |aerpaw.org         |custom Carrier Board             |mtfunder
+CB0000099     |Station 0 LLC              |Jerry Fuller                 |station0.us        |custom Carrier Board             |Station0LLC
+CB0000100     |3DXR                       |Ben Wilkinson                |3dxr.co.uk         |Distributed VTOL Board           |3dxr
+CB0000101     |Indrones                   |Pravin Prajapati             |www.indrones.com   |Sigma Carrier Board              |pravinp404
+CB0000102     |Simtech Racing             |Jed Freeaman                 |www.simtechracing.co.uk   |Integrated VTOL Board     |SimtechR
+CB0000103     |Pegasus Aero               |Carl Engelmann               |www.pegasusaero.ca |Custom Carrier Board             |CarlEngel
+CB0000104     |Manna Drones               |Kilian Dolan                 |manna.aero         |Custom Carrier Board             |arahowerya
+CB0000105     |Perseids LLC               |Garrett Robinson             |perseids.dev       |Commercial PCB design            |perseidsllc
+CB0000106     |AIRBOT SYSTEMS             |Julien Queffelec             |Airbot-systems.com |ATOM Drone Motherboard           |K3FF
+CB0000107     |iCreativeSystems           |Nanthawat Saetun             |icsco.ai           |Custom Carrier Board             |aerojnn
+CB0000108     |Autonomous Technology      |Nigel Brown                  |www.autonomoustechnology.com.au  |Custom Carrier Board |NigelBrown5
+CB0000109     |Flyfocus                   |Julian Zyromski              |www.flyfocus.pl    |Custom Carrier Board             |zyromskij
+CB0000110     |Airvolute                  |Lukas Palkovic               |www.airvolute.com  |DronCore.Suite - full autonomous solution with Jetson |lupal1
+CB0000111     |SkySpecs                   |Sam DeBruin                  |www.skyspecs.com   |Custom Carrier Board             |sdebruinss 
+CB0000112     |Camflite                   |Paul Gentile                 |www.camflite.com   |Custome Carrier Board            |gsrobotics
+CB0000113     |Fortem Technologies        |Patrick Fitzgerald           |fortemtech.com     |Custom carrier board             |pfitzger8828
+CB0000114     |Spectre Solutions          |Karol Niewiadomski           |spectre.solutions  |Custom carrier board             |spectre-solutions
+CB0000115     |Take-Air                   |Joost Weijs                  |take-air.fr        |Custom Carrier Board with Jetson integration  |jweijs
+CB0000115     |Drone Aviation Corp        |Zac Messcher                 |droneaviationcorp.com|Custom carrier board           |zmesscher
