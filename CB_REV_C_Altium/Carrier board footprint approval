@@ -133,4 +133,7 @@ CB0000112     |Camflite                   |Paul Gentile                 |www.cam
 CB0000113     |Fortem Technologies        |Patrick Fitzgerald           |fortemtech.com     |Custom carrier board             |pfitzger8828
 CB0000114     |Spectre Solutions          |Karol Niewiadomski           |spectre.solutions  |Custom carrier board             |spectre-solutions
 CB0000115     |Take-Air                   |Joost Weijs                  |take-air.fr        |Custom Carrier Board with Jetson integration  |jweijs
-CB0000115     |Drone Aviation Corp        |Zac Messcher                 |droneaviationcorp.com|Custom carrier board           |zmesscher
+CB0000116     |Drone Aviation Corp        |Zac Messcher                 |droneaviationcorp.com|Custom carrier board           |zmesscher
+CB0000117     |Easy Aerial                |Chamathke Perera             |easyaerial.com     |Custom Carrier Board - Albatross |ChamathkePerera
+CB0000118     |Easy Aerial                |Chamathke Perera             |easyaerial.com     |Custom Carrier Board - Osprey    |ChamathkePerera
+CB0000119     |Easy Aerial                |Chamathke Perera             |easyaerial.com     |Custom Carrier Board - Raptor    |ChamathkePerera
