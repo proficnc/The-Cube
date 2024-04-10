@@ -20,10 +20,10 @@ Serial Number |Company Name               |Name of person registering   |Link to
 
 CB0000001     |3DRobotics                 |Philip                       |3DRobotics.com     |Solo main board                  |ProfiCNC 
 CB0000002     |3DRobotics                 |Philip                       |3DRobotics.com     |Iris++ main board                |ProfiCNC
-CB0000003     |Hex                        |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
-CB0000004     |Hex                        |Philip                       |ProfiCNC.com       |Mini carrier board               |ProfiCNC
-CB0000005     |Hex                        |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
-CB0000006     |Hex                        |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
+CB0000003     |CubePilot                  |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
+CB0000004     |CubePilot                  |Philip                       |ProfiCNC.com       |Mini carrier board               |ProfiCNC
+CB0000005     |CubePilot                  |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
+CB0000006     |CubePilot                  |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
 CB0000007     |VAMATIS                    |Nicolas Chaslot              |Vamatis.com        |Mega Solo Carrier board          |ncx94
 CB0000008     |Airbot Systems             |Philip                       |Airbot-systems.com |Mini Carrier Board               |ProfiCNC
 CB0000009     |SpektreWorks               |Daniel Laks                  |spektreworks.com   |Multi-Rotor Carrier Board        |SpektreWorks
