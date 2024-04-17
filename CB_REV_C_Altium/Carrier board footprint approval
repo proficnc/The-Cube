@@ -20,10 +20,10 @@ Serial Number |Company Name               |Name of person registering   |Link to
 
 CB0000001     |3DRobotics                 |Philip                       |3DRobotics.com     |Solo main board                  |ProfiCNC 
 CB0000002     |3DRobotics                 |Philip                       |3DRobotics.com     |Iris++ main board                |ProfiCNC
-CB0000003     |Hex                        |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
-CB0000004     |Hex                        |Philip                       |ProfiCNC.com       |Mini carrier board               |ProfiCNC
-CB0000005     |Hex                        |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
-CB0000006     |Hex                        |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
+CB0000003     |CubePilot                  |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
+CB0000004     |CubePilot                  |Philip                       |ProfiCNC.com       |Mini carrier board               |ProfiCNC
+CB0000005     |CubePilot                  |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
+CB0000006     |CubePilot                  |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
 CB0000007     |VAMATIS                    |Nicolas Chaslot              |Vamatis.com        |Mega Solo Carrier board          |ncx94
 CB0000008     |Airbot Systems             |Philip                       |Airbot-systems.com |Mini Carrier Board               |ProfiCNC
 CB0000009     |SpektreWorks               |Daniel Laks                  |spektreworks.com   |Multi-Rotor Carrier Board        |SpektreWorks
@@ -185,8 +185,8 @@ cb0000165     |SPS Automation             |Mark Bentley                 |spsauto
 cb0000166     |SelectTech Geospatial      |Barry Reed                   |sgamf.com           |Custom Carrier Board            |Barry-Reedjr
 cb0000167     |WARGdrones GMBH            |Patrick Oetken               |wargdrones.com      |Custom Carrier Board            |poett1
 cb0000168     |Skydrone Robotics          |Kien Phung                   |skydrone-robotics.com |Custom Carrier Board          |dkienphung
-cb0000169     |YJUAV                      |https://www.yjuav.net/       |---	                  |Custom Carrier Board          |yunjiuav
-cb0000170     |Private                    |Sean Miller                  |---                   |Custom Carrier Board          |milhouse19
+cb0000169     |YJUAV                      |https://www.yjuav.net/       |---	                |Custom Carrier Board             |yunjiuav
+cb0000170     |Private                    |Sean Miller                  |---                 |Custom Carrier Board            |milhouse19
 CB0000171     |AEROFOX                    |Jerry Guo                    |aero-fox.com        |VTOL Carrier Board              |AEROFOXtech
 CB0000172     |Mississippi State University |Jadwin Manuel              |gri.msstate.edu     |Rover Carrier Board             |jadwin1997
 CB0000173     |Delft Dynamics B.V.        |Coen Doesema                 |delftdynamics.nl    |Custom Carrier Board            |DelftDynamics-C
@@ -203,4 +203,5 @@ CB0000183     |Aero Systems West          |Cameron Fedde                |www.aer
 CB0000184     |Private                    |Asheesh Kumar Raikwar        |asheeshraikwar.github.io   |Custome Carrier Board    |asheeshraikwar
 CB0000185     |PowerBox-Systems GmbH      |Deutsch Richard              |powerbox-systems.com      |Custom Carrier Board      |PowerBox-Systems
 CB0000186     |AvantLabs		  |Haseeb ul Hassan             |avantlabstech.com      |Custom Carrier Board         |haseebulhassan
-CB0000187     |Prototyx                   |Xavier Yvars                 |-----               |Custom carrier board            |Prototyx
+CB0000187     |GPASEABOTS.           		  |Albert Ruzafa.               |gpaseabots.com      |Custom Carrier Board on USV     |ARuzafaSeabots
+CB0000188     |Prototyx                   |Xavier Yvars                 |-----               |Custom carrier board            |Prototyx
