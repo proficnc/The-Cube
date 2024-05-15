@@ -169,8 +169,8 @@ CB0000149     |STRATAGGEM                 |Joel Roessner                |www.str
 CB0000150     |Pegasus Imagery LTD.       |Dallyn Wynnychuk             |www.pegasusimagery.ca |Custom Carrier Board          |pegasus-imagery
 CB0000151     |WUThrust                   |Piotr Czapnik                |www.wuthrust.com   |Custom Carrier Board             |piotroo11
 CB0000152     |--                         |Armando Uribe                |--                    |Custom Carrier Board          |JoseArmando95
-CB0000153     |Mistral Solutions          |Sachidananda Karanth         |www.mistralsolutions.com |Custom Carrier Board          |sachi-mistralsolutions
-CB0000154     |NOAH Aerosystems           |Lazar Paunovic               |www.noahaerosystems.com  |Custom Carrier Board          |paun-noahaerosystems
+CB0000153     |Mistral Solutions          |Sachidananda Karanth         |www.mistralsolutions.com |Custom Carrier Board       |sachi-mistralsolutions
+CB0000154     |NOAH Aerosystems           |Lazar Paunovic               |www.noahaerosystems.com  |Custom Carrier Board       |paun-noahaerosystems
 CB0000155     |TUDelft MAVLab             |Christophe De Wagter         |mavlab.tudelft.nl  |Custom Carrier Board             |dewagter
 CB0000156     |--                         |Tal Sayag                    |--                 |Custom Carrier Board             |talsayag
 CB0000157     |Saronic Technologies       |Douglas Lambert              |www.saronic.com    |Custom Carrier Board             |dougsaronic
@@ -185,7 +185,7 @@ cb0000165     |SPS Automation             |Mark Bentley                 |spsauto
 cb0000166     |SelectTech Geospatial      |Barry Reed                   |sgamf.com           |Custom Carrier Board            |Barry-Reedjr
 cb0000167     |WARGdrones GMBH            |Patrick Oetken               |wargdrones.com      |Custom Carrier Board            |poett1
 cb0000168     |Skydrone Robotics          |Kien Phung                   |skydrone-robotics.com |Custom Carrier Board          |dkienphung
-cb0000169     |YJUAV                      |https://www.yjuav.net/       |---	                |Custom Carrier Board             |yunjiuav
+cb0000169     |YJUAV                      |https://www.yjuav.net/       |---	               |Custom Carrier Board            |yunjiuav
 cb0000170     |Private                    |Sean Miller                  |---                 |Custom Carrier Board            |milhouse19
 CB0000171     |AEROFOX                    |Jerry Guo                    |aero-fox.com        |VTOL Carrier Board              |AEROFOXtech
 CB0000172     |Mississippi State University |Jadwin Manuel              |gri.msstate.edu     |Rover Carrier Board             |jadwin1997
@@ -201,9 +201,11 @@ CB0000181     |Archangel Imaging          |Paul Riggs                   |archang
 CB0000182     |Self                       |Guy Bardugo                  |------              |Custom carrier board            |GuyBardugo
 CB0000183     |Aero Systems West          |Cameron Fedde                |www.aerosystemswest.com   |Custom carrier board      |CameronFeddeASW
 CB0000184     |Private                    |Asheesh Kumar Raikwar        |asheeshraikwar.github.io   |Custome Carrier Board    |asheeshraikwar
-CB0000185     |PowerBox-Systems GmbH      |Deutsch Richard              |powerbox-systems.com      |Custom Carrier Board      |PowerBox-Systems
-CB0000186     |AvantLabs		  |Haseeb ul Hassan             |avantlabstech.com      |Custom Carrier Board         |haseebulhassan
+CB0000185     |PowerBox-Systems GmbH      |Deutsch Richard              |powerbox-systems.com|Custom Carrier Board            |PowerBox-Systems
+CB0000186     |AvantLabs	            	  |Haseeb ul Hassan             |avantlabstech.com   |Custom Carrier Board            |haseebulhassan
 CB0000187     |GPASEABOTS.           		  |Albert Ruzafa.               |gpaseabots.com      |Custom Carrier Board on USV     |ARuzafaSeabots
 CB0000188     |Moonlite Machine           |Dave Wheeler                 |moonlitemachine.com |Custom Carrier Board Copter     |Moonlite-Machine
 CB0000189     |Personal use               |T.C. Glasbergen              |---                 |Custom Carrier Board            |EmperorPawpatine
 CB0000190     |Prototyx                   |Xavier Yvars                 |-----               |Custom carrier board            |Prototyx
+CB0000191     |PowerCom                   |Ahmed Emad                   |www.powercom.co     |Custom Carrier Board            |exnxxva
+
